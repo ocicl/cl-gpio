@@ -1,0 +1,9 @@
+* cl-gpio
+
+A library for the Linux GPIO kernel module as used on hobby kits such as the Raspberry Pi
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Shinmera/cl-gpio.git |
+| commit  | e161f3f                                     |
+| systems | cl-gpio                                     |
+|---------+---------------------------------------------|
