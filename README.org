@@ -4,6 +4,6 @@ A library for the Linux GPIO kernel module as used on hobby kits such as the Ras
 
 |---------+---------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-gpio.git |
-| commit  | 0000000                                     |
+| commit  | 34d0c20                                     |
 | systems | cl-gpio                                     |
 |---------+---------------------------------------------|
