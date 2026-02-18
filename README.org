@@ -3,7 +3,7 @@
 A library for the Linux GPIO kernel module as used on hobby kits such as the Raspberry Pi
 
 |---------+---------------------------------------------|
-| source  | git:https://github.com/Shinmera/cl-gpio.git |
-| commit  | 124cdd5                                     |
+| source  | git:https://codeberg.org/shinmera/cl-gpio.git |
+| commit  | 0000000                                     |
 | systems | cl-gpio                                     |
 |---------+---------------------------------------------|
